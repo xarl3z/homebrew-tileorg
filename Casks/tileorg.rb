@@ -2,8 +2,8 @@ cask "tileorg" do
   version "0.1.2"
   sha256 "PLACEHOLDER"
 
-  url "https://github.com/xarl3z/tileorg/releases/download/v#{version}/TileOrg.dmg",
-      verified: "github.com/xarl3z/tileorg/"
+  url "https://github.com/xarl3z/tileorg-releases/releases/download/v#{version}/TileOrg.dmg",
+      verified: "github.com/xarl3z/tileorg-releases/"
 
   name "TileOrg"
   desc "Project-based window organization with tiling for macOS"
