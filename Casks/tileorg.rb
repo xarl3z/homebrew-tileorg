@@ -1,6 +1,6 @@
 cask "tileorg" do
-  version "0.2.0"
-  sha256 "c1338bb172d3d4023f029ae869b553ae3686315f2bd3e01b91a290a24fc7149d"
+  version "0.2.1"
+  sha256 "1e32fb585539a5f1046720062adfdc20b233a243dce2997408ccff8a9f98dbb6"
 
   url "https://github.com/xarl3z/tileorg-releases/releases/download/v#{version}/TileOrg.dmg",
       verified: "github.com/xarl3z/tileorg-releases/"
